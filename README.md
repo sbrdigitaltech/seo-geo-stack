@@ -2,8 +2,6 @@
 
 Put your SEO on autopilot with Claude Code. Four skills and two MCP servers that audit your site, check whether ChatGPT, Gemini, Perplexity and Google AI Overviews actually recommend you, hand you your fastest fixes, and write the changes for you.
 
-Built and used in production by [@aimarketinglab](https://instagram.com/aimarketinglab).
-
 ## Why this exists
 
 68% of Google searches now end without a click ([SparkToro, 2026](https://searchengineland.com/google-zero-click-searches-2026-study-479717)). AI Overviews cut clicks to the #1 result by 58% ([Ahrefs](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/)). The question is no longer where you rank. It is whether AI knows you exist. This stack tells you, then fixes it.
@@ -75,7 +73,7 @@ If your site runs WordPress, add a WordPress MCP (for example [InstaWP/mcp-wp](h
 
 ## Credits and further reading
 
-This stack stands on excellent open-source work. If you want to go deeper than these four skills:
+Additional reading:
 
 - [mykpono/ultimate-seo-geo](https://github.com/mykpono/ultimate-seo-geo) — full audit suite with 20 diagnostic scripts
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — 25 sub-skills covering technical SEO, E-E-A-T, schema, GEO/AEO
