@@ -1,0 +1,8 @@
+{
+  "name": "seo-geo-stack",
+  "version": "1.0.0",
+  "description": "AI-era SEO pipeline: site audit, AI visibility score (ChatGPT/Gemini/Perplexity/AI Overviews), prioritized fixes, schema + llms.txt + copy fixes, weekly visibility watchdog. Needs Search Console MCP + DataForSEO MCP.",
+  "author": { "name": "SBR Digital" },
+  "homepage": "https://github.com/sbrdigitaltech/seo-geo-stack",
+  "license": "MIT"
+}
